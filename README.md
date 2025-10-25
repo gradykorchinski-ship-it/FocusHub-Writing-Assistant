@@ -18,12 +18,6 @@ FocusHub Writing Assistant is a comprehensive browser extension designed to be y
 
 ## 🚀 Installation
 
-### From Chrome Web Store
-1. Visit the [Chrome Web Store](#) (link coming soon)
-2. Click "Add to Chrome"
-3. Confirm the installation
-4. The FocusHub icon will appear in your browser toolbar
-
 ### From Source
 1. Clone this repository:
    ```bash
@@ -82,8 +76,6 @@ We welcome contributions from the community! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
 ## 🐛 Bug Reports & Feature Requests
 
 Found a bug or have an idea for a new feature? Please open an issue on our [GitHub Issues](https://github.com/gradykorchinski-ship-it/FocusHub-Writing-Assistant/issues) page.
@@ -104,9 +96,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you need help or have questions:
-- Check our [Documentation](#) (coming soon)
 - Open an issue on GitHub
-- Contact: [support@focushub.com](mailto:support@focushub.com)
+- Reach out through the repository discussions
 
 ---
 
